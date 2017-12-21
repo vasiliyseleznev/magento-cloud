@@ -1,4 +1,4 @@
-# Magento 2.1.4 Enterprise Cloud Edition
+# Magento 2.1.4 Enterprise Cloud Edition !
 
 This sample repository helps you deploy a Magento 2.1.4 Enterprise Edition (EE) instance in the cloud. You must be a licensed user of Magento Enterprise Cloud Edition to use the example in this repository.
 
